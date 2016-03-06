@@ -1,0 +1,21 @@
+body { 
+    padding-top: 70px; 
+}
+
+.navbar-nav hr {
+    margin: 0px;
+}
+
+#menu-contents {
+    padding: 0px;
+}
+
+#menu-choices {
+    background-color: lightgrey;
+    height: 100%;
+    margin-top: -8px;
+}
+
+#chicken-section {
+    background-color: darkgrey
+}
